@@ -32,4 +32,4 @@ var funkyFunction = function() {
 
 
 var theFunk = funkyFunction()
-theFunk.function()
+console.log(theFunk.function())
